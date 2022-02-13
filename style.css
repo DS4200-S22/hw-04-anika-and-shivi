@@ -13,6 +13,7 @@ h1{
 }
 
 .border:hover{
+  stroke: black;
   stroke-width: 5;
 }
 

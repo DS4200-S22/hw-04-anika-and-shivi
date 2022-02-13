@@ -15,3 +15,4 @@ function disappear() {
     } else {
         document.getElementById("c3").setAttribute("class", "appear");
     }
+}
