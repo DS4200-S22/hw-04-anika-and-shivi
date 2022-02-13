@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  justify-content: center;
+}
+
+h1{
+  text-align: center;
+}
+
+.circle-container{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.border:hover{
+  stroke-width: 5;
+}
+
+.appear{
+  opacity: 1.0;
+}
+
+.disappear{
+  opacity: 0;
+}
